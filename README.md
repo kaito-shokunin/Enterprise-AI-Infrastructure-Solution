@@ -17,9 +17,17 @@
 
 ---
 
-## 🏗️ 系统架构 (Architecture)
+## 📸 系统运行快照 (System Snapshots)
 
-本方案采用 **Serverless (无服务器)** 架构，实现了 24/7 稳定在线，且支持国内 IP 直接访问。
+| 1. Zeabur 部署状态 (Running) | 2. LobeChat 交互界面 | 3. 顶级模型对话测试 |
+| :---: | :---: | :---: |
+| ![Zeabur Status](./docs/images/zeabur.png) | ![LobeChat UI](./docs/images/chat.png) | ![Model Test](./docs/images/model.png) |
+
+> *注：以上截图展示了系统从云端部署到实际调用的全过程。图片已存储于 `/docs/images/` 目录下。*
+
+---
+
+## 🏗️ 系统架构 (Architecture)
 
 ```mermaid
 graph TD
