@@ -5,7 +5,10 @@
 ![Status](https://img.shields.io/badge/Status-Deployed-success) ![Stack](https://img.shields.io/badge/Tech-OpenRouter%20%7C%20Zeabur%20%7C%20LobeHub-blue) ![Target](https://img.shields.io/badge/Target-Small%20Teams-orange)
 
 ---
-
+## 📑 详细文档 (Detailed Documentation)
+- [商业价值与成本分析](./docs/Business_Case.md)
+- [技术部署指南](./docs/Deployment_Guide.md)
+- [用户操作手册 (SOP)](./docs/User_SOP_CN.md)
 ## 📖 项目背景 (Background)
 
 在企业推进 AI 赋能的过程中，由于缺乏海外支付手段、网络环境不稳定以及个人版账户难以管理，导致团队无法顺畅使用最先进的模型（如 Claude 3.5, GPT-4o）。
