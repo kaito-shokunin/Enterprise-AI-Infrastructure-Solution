@@ -39,8 +39,3 @@ graph TD
     User --> Browser --> Server
     Server --> Auth --> Lobe
     Lobe --> OR --> Models
-## 📑 详细文档 (Detailed Documentation)
-- [商业价值与成本分析](./docs/Business_Case.md)
-- [技术部署指南](./docs/Deployment_Guide.md)
-- [用户操作手册 (SOP)](./docs/User_SOP_CN.md)
-```
